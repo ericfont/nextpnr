@@ -5,7 +5,7 @@
         "arch": {
             "name": "ice40",
             "type": "hx1k",
-            "package": "tq144"
+            "package": "vq100"
         },
         "input": {
             "json": "blinky.json",
